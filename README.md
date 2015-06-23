@@ -1,2 +1,4 @@
-# mCookie
-The official mCookie respository
+mCookie
+=========
+
+The official mCookie repository
